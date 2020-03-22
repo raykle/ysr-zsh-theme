@@ -1,7 +1,9 @@
 # ysr.zsh-theme
-A ZSH theme based on `[ys](http://blog.ysmood.org/my-ys-terminal-theme/)`
+A ZSH theme based on [`ys`](http://blog.ysmood.org/my-ys-terminal-theme/).
 
 ## Screenshots
+
+![Screenshots](./Screenshots.png)
 
 ## Installation
 
